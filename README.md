@@ -4,6 +4,8 @@ Welcome to the English Learning Journey! Unlike traditional study materials that
 
 Our goal? To help you achieve **native-level** English communication skills.
 
+*Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md),[繁體中文](README.zh-tw.md)*
+
 ## What Makes This Path Different?
 
 1. **Simplicity**: We believe in simplicity. No unnecessary jargon or overwhelming content. Just what you need to succeed.
